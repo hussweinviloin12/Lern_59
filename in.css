@@ -1,0 +1,60 @@
+img{
+ width: 100px;
+ height: 100px;
+ object-fit: scale-down;
+ border-radius: 50px;
+}
+#cod{
+ min-height: 300px;
+ border: 2px solid red;
+ min-height: 300px;
+ margin: auto;
+}
+main{
+ text-align: center;
+}
+.botn{
+ display: flex;
+ justify-content: space-evenly;
+}
+button{
+ width: 40%;
+ border-radius: 5px;
+}
+#reselt{
+ margin-top: 5px;
+padding: 4px;
+ background: rgb(151, 148, 148);
+
+}
+#app p{
+ width: 100%;
+ max-width: 100%;
+ background: #f1f1f1ce;
+ line-height: 40px;
+ border-bottom: 1.5px dashed #f1ecaa;
+}
+textarea{
+ width: 100%;
+ background: #000000a2;
+ color: white;
+ font-family: sans-serif;
+ font-weight: 500;
+}
+#select{
+border-radius: 12px;
+background: #908a38;
+color: orange;
+padding: 5px;
+width: 100%;
+}
+
+#lin{
+ text-decoration: none;
+ width: 35px;
+ height: 35px;
+ border-radius: 5px;
+ font-family: Arial, Helvetica, sans-serif;
+ background: #908a38;
+ text-align: center;
+}
